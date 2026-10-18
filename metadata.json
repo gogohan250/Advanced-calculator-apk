@@ -1,0 +1,8 @@
+{
+  "name": "الحاسبة المتكاملة",
+  "description": "آلة حاسبة ذكية متكاملة: عادية، علمية، برمجية، رسم بياني، محول وحدات وعملات، حاسبات مالية وصحية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
